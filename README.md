@@ -11,3 +11,11 @@ The basic idea is to build a site that fits with my standard notepad style forma
 
 Plan of attack
 - hard code in selection of options of splits
+
+
+Fight Info Outline
+- trainer (name of trainer)
+- splitNum (i.e. 2/10 how many fights left in the split)
+- sectionNum (i.e 2/4 how many fights left in the location)
+- gauntletNum (i.e. 5/10 in the gauntlet)
+- notes (spikes, back to back, etc)
